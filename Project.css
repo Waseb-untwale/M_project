@@ -126,7 +126,7 @@ text-align: center;
  } 
 .footer{
     background-color: #282828;
-    height: 100vh;
+/*     height: 100vh; */
     width: 100vw;
 }
 
